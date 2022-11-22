@@ -11,6 +11,7 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "tone": "^14.7.77",
     "vue": "^3.2.41"
   },
   "devDependencies": {
